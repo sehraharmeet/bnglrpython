@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dvd_rental>
+    <movie id="M001">
+        <title>3 Idiots</title>
+        <genre>Comedy-Drama</genre>
+        <language>Hindi</language>
+        <year>2009</year>
+        <available>false</available>
+        <rented_by>
+            <customer_id>C101</customer_id>
+            <name>Rahul Sharma</name>
+            <rental_date>2025-06-15</rental_date>
+            <return_due>2025-06-22</return_due>
+        </rented_by>
+    </movie>
+    <movie id="M002">
+        <title>Bahubali: The Beginning</title>
+        <genre>Action</genre>
+        <language>Telugu</language>
+        <year>2015</year>
+        <available>true</available>
+    </movie>
+</dvd_rental>
