@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "Reetoja",
+            "password": "reetoja123",
+            "role": "user",
+            "balance": 10000,
+            "portfolio": {}
+        },
+        {
+            "username": "Riya",
+            "password": "890@123",
+            "role": "user",
+            "balance": 10000,
+            "portfolio": {}
+        }
+    ],
+    "stocks": {
+        "AAPL": 180,
+        "TSLA": 250,
+        "GOOGL": 2800,
+        "MSFT": 320
+    }
+}
