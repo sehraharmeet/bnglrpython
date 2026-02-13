@@ -1,0 +1,14 @@
+{
+    "Bhargavi": {
+        "type": "admin",
+        "password": "Bhargavi",
+        "cash": 0.0,
+        "holdings": {}
+    },
+    "Bhanu": {
+        "type": "customer",
+        "password": "Bhanu",
+        "cash": 100000.0,
+        "holdings": {}
+    }
+}

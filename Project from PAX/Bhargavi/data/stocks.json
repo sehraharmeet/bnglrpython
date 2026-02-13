@@ -1,0 +1,22 @@
+{
+    "RELIANCE": {
+        "name": "Reliance Industries",
+        "price": 3000.12
+    },
+    "TCS": {
+        "name": "Tata Consultancy Services",
+        "price": 5000.05
+    },
+    "HDFCBANK": {
+        "name": "HDFC Bank",
+        "price": 1234.56
+    },
+    "INFY": {
+        "name": "Infosys",
+        "price": 3276.78
+    },
+    "ITC": {
+        "name": "ITC Ltd",
+        "price": 6783.65
+    }
+}
