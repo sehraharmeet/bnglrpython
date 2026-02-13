@@ -9,7 +9,7 @@ class Portfolio:
         price = market.get_price(symbol)
         cost = price * qty
         if self.user.balance < cost:
-            raise InsufficientFundsError("Not enough balance to buy stock!")
+            raise InsufficientFundsError("There is no enough balance to buy stock!")
 
         self.user.balance -= cost
         if symbol in self.holdings:
@@ -54,3 +54,4 @@ class Portfolio:
             print(f"{stock}: Qty={data['qty']}, Avg={data['avg_price']}, "
                   f"Current={current_price}, P/L={pl}")
         print(f"\nTotal Profit/Loss: {total_pl}")
+
