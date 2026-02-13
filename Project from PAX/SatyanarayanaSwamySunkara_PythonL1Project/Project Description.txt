@@ -38,7 +38,8 @@ h) Profit/Loss Calculation
 
 Note: (Pending Items)
 A Company Request feature (request to add/remove stocks  by for admin approval by company is pending). 
-Reason: Got idea but stuck in implementation and 
+Reason: Got idea but stuck in implementation and time constraint
 
 Technologies Used
 Python, OOPS concepts, modules, File Handling and Data Storage (JSON), Exception Handling
+
