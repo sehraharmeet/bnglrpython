@@ -1,0 +1,1 @@
+Name: Reema, Marks: [90.0, 90.0], Average: 90.00, Result: Pass

@@ -1,0 +1,1 @@
+Name: Abhishek, Marks: [90.0, 90.0, 89.0, 100.0], Average: 92.25, Result: Pass
