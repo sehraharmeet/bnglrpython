@@ -1,0 +1,41 @@
+{
+    "Ramesh": {
+        "balance": 9500
+    },
+    "Anita": {
+        "balance": 12000
+    },
+    "John": {
+        "balance": 8000
+    },
+    "admin": {
+        "balance": 10000
+    },
+    "Shwetha": {
+        "balance": 4858.0
+    },
+    "Mohan": {
+        "balance": 3286.0
+    },
+    "Mona": {
+        "balance": 4006.0
+    },
+    "Shashi": {
+        "balance": 10000
+    },
+    "Sheetal": {
+        "balance": 1168
+    },
+    "Veena": {
+        "balance": 10000
+    },
+    "Nayana": {
+        "balance": 10000
+    },
+    "Nisarga": {
+        "balance": 10000
+    },
+    "Pooja": {
+        "balance": 10000
+    }
+}
