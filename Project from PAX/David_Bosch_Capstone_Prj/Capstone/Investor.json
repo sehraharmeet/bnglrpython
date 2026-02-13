@@ -1,0 +1,15 @@
+[
+    {
+        "investorName": "Harmeet",
+        "Fund": 20000,
+        "AvaliableFund": 19100,
+        "InvestedCompanies": [
+            {
+                "stockName": "BOSCH",
+                "totalnumberOfStocks": 2,
+                "eachStock": 450,
+                "currentStockPrice": "999"
+            }
+        ]
+    }
+]
