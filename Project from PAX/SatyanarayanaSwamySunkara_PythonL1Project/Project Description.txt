@@ -1,0 +1,44 @@
+
+
+SMART PORTFOLIO MANAGER
+
+The program allows users to create an account, manage virtual money, and trade stocks
+using market prices controlled by the admin.
+
+
+1. Authentication
+
+a) User can register and login
+b) Admin login (fixed credentials (name: Satya and Password: Satya@185))
+c) User details stored in users.json
+
+2. Admin Module
+
+a) View available stocks
+b)Add new stock with price
+c) Remove stock from market
+d) Market data stored in market.json
+
+3. Customer
+
+a) Add funds to account
+b) Balance automatically updates after transactions
+c) Buy stocks (balance deducted)
+d) Sell stocks (money added back)
+e) Prevents buying without balance (Exception Handling)
+f) Prevents selling stocks not owned (Exception Handling)
+g) Portfolio Tracking(View owned stocks, balance, profit or loss)
+h) Profit/Loss Calculation
+
+ Data Persistence
+
+-> All data stored using JSON files
+-> Data remains after restarting program
+
+
+Note: (Pending Items)
+A Company Request feature (request to add/remove stocks  by for admin approval by company is pending). 
+Reason: Got idea but stuck in implementation and 
+
+Technologies Used
+Python, OOPS concepts, modules, File Handling and Data Storage (JSON), Exception Handling

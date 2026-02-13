@@ -1,0 +1,22 @@
+{
+    "satya": {
+        "password": "123",
+        "balance": 7500,
+        "stocks": {
+            "INFY": {
+                "qty": 2,
+                "avg": 1500
+            }
+        }
+    },
+    "Satya": {
+        "password": "1234",
+        "balance": 3800,
+        "stocks": {
+            "SIP500": {
+                "qty": 1,
+                "avg": 1200
+            }
+        }
+    }
+}
