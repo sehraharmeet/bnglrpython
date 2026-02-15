@@ -3,7 +3,7 @@ from exceptions import InsufficientFundsError, StockNotFoundError
 class Portfolio:
     def __init__(self, user):
         self.user = user
-        self.holdings = {}  # {symbol: {"qty": int, "avg_price": float}}
+        self.holdings = {} 
 
     def buy_stock(self, symbol, qty, market):
         price = market.get_price(symbol)
@@ -54,4 +54,5 @@ class Portfolio:
             print(f"{stock}: Qty={data['qty']}, Avg={data['avg_price']}, "
                   f"Current={current_price}, P/L={pl}")
         print(f"\nTotal Profit/Loss: {total_pl}")
+
 
